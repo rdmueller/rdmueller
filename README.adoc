@@ -1,8 +1,13 @@
-[cols="2"]
+[cols="3"]
 |===
 a| 
 image::https://d2sofvawe08yqg.cloudfront.net/arc42byexample/small2x?1549481171[link=https://leanpub.com/arc42byexample, width=100px]
 
 a|
 image::https://d2sofvawe08yqg.cloudfront.net/praxisbuchdocs-as-code/small2x?1549506199[link=https://leanpub.com/praxisbuchdocs-as-code, width=100px]
+
+^a|
+* https://docs-as-co.de[Docs-as-Co.de]
+* https://doctoolchain.github.io/docToolchain[docToolchain]
+* https://arc42.org[arc42]
 |===
