@@ -1,3 +1,5 @@
+image::https://github-readme-stats.vercel.app/api?username=rdmueller&show_icons=true[]
+
 [cols="3"]
 |===
 a| 
