@@ -1,7 +1,9 @@
-image::https://github-readme-stats.vercel.app/api?username=rdmueller&show_icons=true[]
 
-[cols="3"]
+
+[cols="4"]
 |===
+a|
+image::https://github-readme-stats.vercel.app/api?username=rdmueller&show_icons=true[]
 a| 
 image::https://d2sofvawe08yqg.cloudfront.net/arc42byexample/small2x?1549481171[link=https://leanpub.com/arc42byexample, width=100px]
 
