@@ -14,4 +14,10 @@ image::https://d2sofvawe08yqg.cloudfront.net/praxisbuchdocs-as-code/small2x?1549
 * https://docs-as-co.de[Docs-as-Co.de]
 * https://doctoolchain.github.io/docToolchain[docToolchain]
 * https://arc42.org[arc42]
+
+a|
+image::https://github-readme-streak-stats.herokuapp.com/?user=rdmueller[]
+|
+|
+|
 |===
