@@ -19,7 +19,8 @@ a|
 image::https://github-readme-streak-stats.herokuapp.com/?user=rdmueller[]
 |
 |
-| https://fiveandahalfstars.ninja/talks/rdm.html[Homepage]
+| https://fiveandahalfstars.ninja/talks/rdm.html[Homepage] +
+https://rdmueller.github.io[old Homepage]
 +++
 <a rel="me" href="https://mastodontech.de/@rdmueller">Mastodon</a>
 +++
